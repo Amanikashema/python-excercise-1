@@ -1,3 +1,4 @@
+#displaying names and email
 first_name = input("Please enter your first name:")
 second_name = input("Please enter your second name:")
 age = input("how old are you:")
